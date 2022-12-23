@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "title": "Fathom Analytics",
+  "description": "Add Fathom analytics tracking to your Micro.blog site",
+  "includes": [
+  	"fathom.html"
+  ],
+  "fields": [
+    {
+		"field": "params.fathom_site_code",
+		"label": "Fathom Site Code",
+		"placeholder": "Your Fathom site code"
+	}
+  ]
+}
