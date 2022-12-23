@@ -2,9 +2,11 @@
 
 This plugin adds [Fathom Analytics](https://usefathom.com/ref/IXCLSF) to your hosted Micro.blog site.
 
+> Fathom is a Google Analytics alternative that doesn’t compromise visitor privacy for data
+
 ## Installation
 
-1. Find [Fathom Analytics](https://micro.blog/account/plugins/view/TODO) in the plug-in directory
+1. Find [Fathom Analytics](https://micro.blog/account/plugins/view/86) in the plug-in directory
 2. Install to the site you want to install to and press install
 3. Ta-da! It's installed
 
